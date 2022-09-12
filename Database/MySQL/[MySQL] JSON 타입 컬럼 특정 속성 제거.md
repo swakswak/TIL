@@ -28,7 +28,7 @@
 
 `json_data` 컬럼은 JSON 타입의 컬럼이며, 조회 시 `json_data.cart`는 제외하고 조회하고자 한다.
 
-테이블 생성
+## 테이블 생성
 
 ```sql
 create table `user`
@@ -38,7 +38,7 @@ create table `user`
 );
 ```
 
-데이터 삽입
+## 데이터 삽입
 
 ```sql
 insert into `user` (json_data)
@@ -66,7 +66,7 @@ insert into `user` (json_data)
     }'
     );
 ```
-
+## 데이터 조회
 일반적인 조회이며 결과는 다음과 같다.
 
 ```sql
