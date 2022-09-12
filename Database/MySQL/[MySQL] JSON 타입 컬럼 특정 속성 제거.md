@@ -26,7 +26,7 @@
 }
 ```
 
-`json_data` 컬럼은 JSON 타입의 컬럼이며, 조회 시 `json_data.cart`는 제외하고 조회하고자 합니다.
+`json_data` 컬럼은 JSON 타입의 컬럼이며, 조회 시 `json_data.cart`는 제외하고 조회하고자 한다.
 
 ## 테이블 생성
 
