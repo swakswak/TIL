@@ -1,4 +1,5 @@
 # Today I Learned
+하루의 배움을 기록합니다.
 
 ## Database
 * MySQL
