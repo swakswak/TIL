@@ -8,3 +8,4 @@
   * [도메인 주도 설계 첫걸음](https://github.com/swakswak/TIL/tree/main/DDD/%5B%EB%8F%84%EC%84%9C%5D%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C)
       * 전략적 설계
         * [01. 비즈니스 도메인 분석하기](https://github.com/swakswak/TIL/blob/main/DDD/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84/01.%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.md)
+  * [도메인 모델링](https://github.com/swakswak/TIL/blob/main/DDD/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EB%A7%81.md)
