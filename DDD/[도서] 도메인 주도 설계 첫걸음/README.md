@@ -7,3 +7,4 @@
   * [04. 바운디드 컨텍스트 연동 (구분과 협력)](https://github.com/swakswak/TIL/blob/main/DDD/%5B%EB%8F%84%EC%84%9C%5D%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84/04.%20%EB%B0%94%EC%9A%B4%EB%94%94%EB%93%9C%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%97%B0%EB%8F%99%20(%EA%B5%AC%EB%B6%84%EA%B3%BC%20%ED%98%91%EB%A0%A5).md)
 * 전술적 설계
   * [05. 간단한 비즈니스 구현](https://github.com/swakswak/TIL/blob/main/DDD/%5B%EB%8F%84%EC%84%9C%5D%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/05.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EA%B5%AC%ED%98%84.md)
+  * [06. 복잡한 비즈니스 로직 다루기](./06.%20복잡한%20비즈니스%20로직%20다루기.md)
