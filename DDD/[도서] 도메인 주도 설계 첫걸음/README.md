@@ -9,4 +9,3 @@
   * [05. 간단한 비즈니스 구현](https://github.com/swakswak/TIL/blob/main/DDD/%5B%EB%8F%84%EC%84%9C%5D%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84%20%EC%B2%AB%EA%B1%B8%EC%9D%8C/05.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EA%B5%AC%ED%98%84.md)
   * [06. 복잡한 비즈니스 로직 다루기](./06.%20복잡한%20비즈니스%20로직%20다루기.md)
   * [07. 시간 차원의 모델링](./07.시간%20차원의%20모델링%20(WIP).md)
-  * 
